@@ -2,3 +2,5 @@ Apfel
 Banane
 Blätter
 Milch
+Schnitzel
+Kartoffelsalat
