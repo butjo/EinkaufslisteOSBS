@@ -19,6 +19,9 @@
 * [Töpfern](https://www.google.de/search?q=Töpfern)
 * Malen
 
+## Bild
+Inline-style: 
+![alt text](./pictures/Bild01.jpg "Bildbeispiel")
 
 
 
