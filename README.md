@@ -20,8 +20,9 @@
 * Malen
 
 ## Bild
-Inline-style: 
-![alt text](./pictures/Bild01.jpg "Bildbeispiel")
+
+ 
+![alt text](./pictures/bild01.jpg "Bildbeispiel")
 
 
 
